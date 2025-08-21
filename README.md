@@ -29,8 +29,8 @@
 
 1. Склонируйте репозиторий или скачайте скрипт:
 
-git clone https://github.com/YOUR_GITHUB/1c-crserver-deploy.git
-cd 1c-crserver-deploy
+git clone [https://github.com/YOUR_GITHUB/1c-crserver-deploy.git](https://github.com/Zargentor/StorageSrvcCreate.git)
+cd StorageSrvcCreate
 
 text
 
